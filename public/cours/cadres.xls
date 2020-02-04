@@ -1,0 +1,26 @@
+
+            <table>
+    <thead>
+      <tr >
+        <th style="border:1px solid #000;background-color:#000;color:#fff">الاسم</th>
+        <th style="border:1px solid #000;background-color:#000;color:#fff">اللقب</th>
+        <th style="border:1px solid #000;background-color:#000;color:#fff">المهنة</th>
+        <th style="border:1px solid #000;background-color:#000;color:#fff">تاريخ التنصيب</th>
+        <th style="border:1px solid #000;background-color:#000;color:#fff">الصورة</th>
+        <th style="border:1px solid #000;background-color:#000;color:#fff">البريد الإلكتروني</th>
+        <th style="border:1px solid #000;background-color:#000;color:#fff">رقم الهاتف</th>
+        <th style="border:1px solid #000;background-color:#000;color:#fff">حساب الفيسبوك</th>
+        
+
+      </tr>
+    </thead>
+    <tbody>
+<tr ><td style="border:1px solid #000;background-color:#ddd;">farid</td>
+<td style="border:1px solid #000;background-color:#ddd;">lehoumel</td>
+<td style="border:1px solid #000;background-color:#ddd;">prof electricité</td>
+<td style="border:1px solid #000;background-color:#ddd;">2011-12-10</td>
+<td style="border:1px solid #000;background-color:#ddd;">dehan.jpg</td>
+<td style="border:1px solid #000;background-color:#ddd;">leg@gmail.com</td>
+<td style="border:1px solid #000;background-color:#ddd;">0560451278</td>
+<td style="border:1px solid #000;background-color:#ddd;">leh farid</td>
+</tr></tbody></table>
